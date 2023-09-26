@@ -3,6 +3,12 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+### .idea ###
+.idea/
+
+### Arquivo de compilação e saida Imagens nos vetores.iml ###
+Imagens nos vetores.iml
+
 ### Eclipse ###
 .apt_generated
 .classpath
